@@ -14,3 +14,4 @@ function letteCount(str){
 }
 
 letteCount("hello")
+
