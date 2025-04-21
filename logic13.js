@@ -6,7 +6,6 @@ function findFirstPair(arr) {
     for (let j = 0; j < arr.length; j++) {
       if (arr[i] + arr[j] == 0) {
           console.log([arr[i], arr[j]]);
-        
       }
       break;
     }
